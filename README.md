@@ -23,6 +23,7 @@
     <li><a href="https://cloud.google.com/">Google Cloud Platform</a></li>
     <li><a href="https://play.google.com/">Google Play Store</a></li>
     <li><a href="https://developers.google.com/">Google Developers</a></li>
+    <li><a href="https://bard.google.com/">Google Bard</a></li>
   </ul>
 </body>
 </html>
