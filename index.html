@@ -27,3 +27,33 @@
   </ul>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Websites</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.2/css/all.min.css">
+</head>
+<body>
+  <h1>Google Websites</h1>
+  <ul>
+    <li><a href="https://www.google.com/" target="_blank"><i class="fa fa-globe"></i> Google Search</a></li>
+    <li><a href="https://mail.google.com/" target="_blank"><i class="fa fa-envelope"></i> Gmail</a></li>
+    <li><a href="https://drive.google.com/" target="_blank"><i class="fa fa-cloud"></i> Google Drive</a></li>
+    <li><a href="https://docs.google.com/" target="_blank"><i class="fa fa-file-text"></i> Google Docs</a></li>
+    <li><a href="https://sheets.google.com/" target="_blank"><i class="fa fa-table"></i> Google Sheets</a></li>
+    <li><a href="https://slides.google.com/" target="_blank"><i class="fa fa-slideshare"></i> Google Slides</a></li>
+    <li><a href="https://calendar.google.com/" target="_blank"><i class="fa fa-calendar"></i> Google Calendar</a></li>
+    <li><a href="https://maps.google.com/" target="_blank"><i class="fa fa-map-marker"></i> Google Maps</a></li>
+    <li><a href="https://youtube.com/" target="_blank"><i class="fa fa-youtube"></i> YouTube</a></li>
+    <li><a href="https://chrome.google.com/" target="_blank"><i class="fa fa-chrome"></i> Google Chrome</a></li>
+    <li><a href="https://android.com/" target="_blank"><i class="fa fa-android"></i> Android</a></li>
+    <li><a href="https://chromebooks.google.com/" target="_blank"><i class="fa fa-laptop"></i> Chromebooks</a></li>
+    <li><a href="https://cloud.google.com/" target="_blank"><i class="fa fa-cloud"></i> Google Cloud Platform</a></li>
+    <li><a href="https://play.google.com/" target="_blank"><i class="fa fa-android"></i> Google Play Store</a></li>
+    <li><a href="https://developers.google.com/" target="_blank"><i class="fa fa-code"></i> Google Developers</a></li>
+  </ul>
+</body>
+</html>
