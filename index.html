@@ -57,3 +57,16 @@
   </ul>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Apps</title>
+</head>
+<body>
+  <h1>Web Apps</h1>
+  <ul>
+  <li><a href="https://chat.openai.com/">ChatGPT</a></li>
