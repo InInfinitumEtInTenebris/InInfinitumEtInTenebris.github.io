@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Google Websites</title>
+  <title>Web Launch Page</title>
 </head>
 <body>
   <h1>Google Websites</h1>
