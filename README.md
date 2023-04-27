@@ -6,6 +6,7 @@
   <title>Web Launch Page</title>
 </head>
 <body>
+  <h1>Web Launch Page</h1>
   <h1>Google Websites</h1>
   <ul>
     <li><a href="https://www.google.com/">Google Search</a></li>
