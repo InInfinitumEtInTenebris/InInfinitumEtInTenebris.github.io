@@ -85,6 +85,7 @@
     <h1>Documents</h1>
   <u1>
   <li><a href="https://docs.google.com/document/u/0/">Google Docs</a></li>
+  <li><a href="https://cursive.apps.chrome/">Cursive</a></li>
   
   <u1>
     <h1>Entertainment</h1>
