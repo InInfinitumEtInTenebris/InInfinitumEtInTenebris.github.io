@@ -80,7 +80,12 @@
   <u1>
     <h1>Education</h1>
   <u1>
-    
+  
+  <u1>
+    <h1>Documents</h1>
+  <u1>
+  <li><a href="https://docs.google.com/document/u/0/">Google Docs</a></li>
+  
   <u1>
     <h1>Entertainment</h1>
   <u1>
