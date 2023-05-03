@@ -87,9 +87,8 @@
   
   <u1>
     <h1>Software Stores</h1>
-  <u1>
-    
-    <li><a href="https://chrome.google.com/webstore/category/extensions">Chrome Web Store</a></li>
+  <u1>  
+  <li><a href="https://chrome.google.com/webstore/category/extensions">Chrome Web Store</a></li>
 
     
     
