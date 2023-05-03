@@ -80,6 +80,10 @@
   <u1>
     <h1>Education</h1>
   <u1>
+    <u1>
+      <h1>Educational Resources</h1>
+    <u1>
+    <li><a href="https://open.umn.edu/opentextbooks/?source=pwa">Open Textbook Library</a></li>  
   
   <u1>
     <h1>Documents</h1>
