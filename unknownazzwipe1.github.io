@@ -4,6 +4,8 @@
   <title>Material You PDF Viewer</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="manifest" href="manifest.json">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pwabuilder/3.4.0/pwabuilder.min.js"></script>
   <style>
     * {
       box-sizing: border-box;
@@ -61,6 +63,7 @@
       <button>Next</button>
       <button>Zoom In</button>
       <button>Zoom Out</button>
+      <input type="file" id="pdf-file">
     </div>
   </div>
 
@@ -69,7 +72,7 @@
     const pdfCanvas = pdfViewer.querySelector('canvas');
     const controls = pdfViewer.querySelector('.controls');
 
-    const pdfFile = 'path/to/pdf.pdf';
+    const pdfFile = null;
 
     const pdf = new PDFJS.PDFDocument();
     pdf.open(pdfFile);
@@ -84,6 +87,23 @@
         // Do something
       });
     });
+
+    // Handle the file selection
+    document.getElementById('pdf-file').addEventListener('change', () => {
+      pdfFile = document.getElementById('pdf-file').files[0];
+
+      // Load the new PDF file
+      pdf.open(pdfFile);
+
+      // Render the first page
+      pdf.getPage(1).then(page => {
+        const ctx = pdfCanvas.getContext('2d');
+        page.render(ctx);
+      });
+    });
+
+    // Install the PWA
+    pwaBuilder.install();
   </script>
 </body>
 </html>
