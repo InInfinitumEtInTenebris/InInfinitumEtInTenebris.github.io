@@ -84,6 +84,7 @@
       <h1>Resources</h1>
     <u1>
     <li><a href="https://open.umn.edu/opentextbooks/?source=pwa">Open Textbook Library</a></li>  
+    <li><a href="https://annas-archive.org/">Anna's Archive</a></li>
   
   <u1>
     <h1>Documents</h1>
