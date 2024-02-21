@@ -72,6 +72,8 @@
   <u1>
   <li><a href="https://www.scribbr.com/plagiarism-checker/">Scribbr</a></li>
   <li><a href="https://remotedesktop.google.com/access">Chrome Remote Desktop</a></li>
+  <li><a href="https://web.parsec.app/">Parsec</a></li>
+
     
   </u1>
   <u1>
