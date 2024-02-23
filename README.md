@@ -41,10 +41,14 @@
   <ul>
     <h1>Unsorted</h1> 
    <u1>
-  <li><a href="https://chat.openai.com/">ChatGPT</a></li>
+   <li><a href="https://wikifactory.com/">Wikifactory</a></li>
+
+
+ <u1> 
+    <h1>Development</h1>
+  <u1>
   <li><a href="https://github.com/">Github</a></li>
-  <li><a href="https://www.ninds.nih.gov/">National Institute of Neurological Disorders and Stroke</a></li>
-  <li><a href="https://wikifactory.com/">Wikifactory</a></li>
+
 
  <u1>
     <h1>Documents</h1>
@@ -69,7 +73,7 @@
     <u1>
     <li><a href="https://open.umn.edu/opentextbooks/?source=pwa">Open Textbook Library</a></li>  
     <li><a href="https://annas-archive.org/">Anna's Archive</a></li>
-
+    <li><a href="https://www.ninds.nih.gov/">National Institute of Neurological Disorders and Stroke</a></li>
  
 </u1>
   <u1>
@@ -86,7 +90,7 @@
   <li><a href="https://snapdrop.net/">Snapdrop</a></li>
   <li><a href="https://remotedesktop.google.com/access">Chrome Remote Desktop</a></li>
   <li><a href="https://web.parsec.app/">Parsec</a></li>
- 
+  <li><a href="https://chat.openai.com/">ChatGPT</a></li>
     
   
 
