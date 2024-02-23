@@ -54,6 +54,13 @@
     <u1>
     <li><a href="https://open.umn.edu/opentextbooks/?source=pwa">Open Textbook Library</a></li>  
     <li><a href="https://annas-archive.org/">Anna's Archive</a></li>
+
+  <u1>
+    <h1>Entertainment</h1>
+  <u1>
+  <li><a href="https://music.youtube.com/">Youtube Music</a></li>
+  <li><a href="https://akaspanion.github.io/music-app/">Music Player PWA</a></li>
+  <u1>
   
   <u1>
     <h1>Documents</h1>
@@ -62,12 +69,7 @@
   <li><a href="https://cursive.apps.chrome/">Cursive</a></li>
   <li><a href="https://www.photopea.com/">Photopea</a></li>
     
-  <u1>
-    <h1>Entertainment</h1>
-  <u1>
-  <li><a href="https://music.youtube.com/">Youtube Music</a></li>
-  <li><a href="https://akaspanion.github.io/music-app/">Music Player PWA</a></li>
-  <u1>
+ <u1>
     <h1>Utilities</h1>
   <u1>
   <li><a href="https://www.scribbr.com/plagiarism-checker/">Scribbr</a></li>
