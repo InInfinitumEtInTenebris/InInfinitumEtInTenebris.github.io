@@ -45,6 +45,13 @@
   <li><a href="https://github.com/">Github</a></li>
   <li><a href="https://www.ninds.nih.gov/">National Institute of Neurological Disorders and Stroke</a></li>
   <li><a href="https://wikifactory.com/">Wikifactory</a></li>
+
+ <u1>
+    <h1>Documents</h1>
+  <u1>
+  <li><a href="https://docs.google.com/document/u/0/">Google Docs</a></li>
+  <li><a href="https://cursive.apps.chrome/">Cursive</a></li>
+  <li><a href="https://www.photopea.com/">Photopea</a></li>
      
   <u1>
     <h1>Education</h1>
@@ -65,12 +72,7 @@
 
  
   
-  <u1>
-    <h1>Documents</h1>
-  <u1>
-  <li><a href="https://docs.google.com/document/u/0/">Google Docs</a></li>
-  <li><a href="https://cursive.apps.chrome/">Cursive</a></li>
-  <li><a href="https://www.photopea.com/">Photopea</a></li>
+ 
     
  <u1>
     <h1>Utilities</h1>
