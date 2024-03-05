@@ -43,6 +43,11 @@
    <u1>
    <li><a href="https://wikifactory.com/">Wikifactory</a></li>
 
+ <u1>
+   <h1>Browser Default Pages</h1>
+  <u1>
+  <li><a href="chrome://flags/">Chrome Experiments</a></li>
+  
 
  <u1>
    <h1>Communication</h1>
