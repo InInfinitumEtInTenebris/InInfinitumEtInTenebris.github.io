@@ -52,8 +52,9 @@
    <h1>Browser Default Pages</h1>
   <u1>
   <li><a href= "chrome://flags/">Chrome Experiments</a></li>
-  <li><a href= "https://chrome://components/">Components</a></li>
-
+    chrome://flags/
+  <li><a href= "chrome://components/">Components</a></li>
+    chrome://components/
   
 
  <u1>
