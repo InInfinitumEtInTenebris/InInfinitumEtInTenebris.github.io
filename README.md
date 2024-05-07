@@ -76,7 +76,9 @@
   <li><a href="https://docs.google.com/document/u/0/">Google Docs</a></li>
   <li><a href="https://cursive.apps.chrome/">Cursive</a></li>
   <li><a href="https://www.photopea.com/">Photopea</a></li>
-     
+  <li><a href="https://keep.google.com/u/0/">Google Keep</a></li>
+
+  
   <u1>
     <h1>Education</h1>
   <u1>
